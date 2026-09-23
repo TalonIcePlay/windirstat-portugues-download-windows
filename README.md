@@ -168,3 +168,4 @@ Dependendo do release, podem estar disponíveis diferentes versões:
 Este projeto utiliza a licença **GPL-2.0**.
 
 Consulte os arquivos de licença incluídos no repositório e as condições do projeto original antes de redistribuir versões modificadas.
+/
